@@ -1,0 +1,65 @@
+jerboa
+baboon
+elephant
+rhinoceros
+grey parrot
+crocodile
+cheetah
+fennec
+hyena
+greater kudu
+zebra
+cobra
+scorpio
+giraffe
+okapi
+crowned crane
+snowy owl
+white hare
+arctic fox
+bowhead whale
+narwhal
+king penguin
+sea leopard
+muskox
+lemming
+american caribou
+Ross's gull
+polar bear
+walrus
+woodpecker
+tawny owl
+aurochs
+badger
+hoopoe
+brown bear
+elk
+capercaillie
+wolf
+boar
+European polecat
+white storck
+beaver
+argali
+golden eagle
+rattlesnake
+ounce
+cougar
+hummingbird
+andean condor
+coyote
+yak
+bobcat
+dingo
+koala
+lemur catta
+platypus
+echidna
+kiwi
+yellow-bellied glider
+bird-of-paradise
+cassowary
+kangaroo
+Galapagos tortoise
+lyrebird
+
