@@ -62,4 +62,7 @@ cassowary
 kangaroo
 Galapagos tortoise
 lyrebird
+tiger
+lion
+dolphin
 

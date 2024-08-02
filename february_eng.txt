@@ -1,0 +1,61 @@
+| Date                   | Person/Event                | Description |
+|------------------------|-----------------------------|-------------|
+| 1 February 1857 - 24 December 1927  | Vladimir Bekhterev       | Russian and Soviet psychiatrist, neurologist, physiologist, psychologist. Founder of reflexology and pathological psychology in Russia. In 1907 founded the Psychoneurological Institute in Saint Petersburg. |
+| 2 February 1883 - 5 May 1957        | Mikhail Gnesin           | Soviet composer, teacher. Author of about 50 romances, music for plays and films. Authored the "Elementary Course of Practical Composition". |
+| 2 February 1885 - 31 October 1925   | Mikhail Frunze           | Soviet statesman and military leader. The capital of Kyrgyzstan (now Bishkek), a peak in the Pamirs, ships, a military academy, streets in cities and villages were named after him in Soviet times. |
+| 1 February 1941 - 24 July 2000      | Anatoly Firsov           | Soviet hockey player, coach, Olympic champion. One of the best forwards in hockey history. |
+| 2 February 1904 - 15 December 1938  | Valery Chkalov           | Pilot, Hero of the Soviet Union. In 1937 made a nonstop flight from Moscow to the USA via the North Pole, setting a world record for nonstop flight at that time. |
+| 4 February 1873 - 16 January 1954   | Mikhail Prishvin         | Writer, prose writer, and publicist. In his work, he explored important questions of human existence, pondering the meaning of life, religion, and the connection between man and nature. |
+| 5 February 1840 - 24 November 1916  | Hiram Stevens Maxim      | American-British inventor and gunsmith. Creator of one of the most famous machine guns — the Maxim gun. |
+| 3 February 1809 - 4 November 1847   | Jakob Ludwig Felix Mendelssohn | German composer, pianist, conductor, teacher. One of the greatest representatives of Romanticism in music. |
+| 5 February 1840 - 23 October 1921   | John Boyd Dunlop         | British veterinarian and inventor. Known for independently recreating the pneumatic tire and as one of the founders of Dunlop Tyres. |
+| 5 February 1880 - 25 December 1973  | Gabriel Voisin           | French aviation pioneer, airplane and car designer, entrepreneur. |
+| 5 February 1812 - 2 November 1895   | Georges-Charles de Heeckeren d'Anthes | French officer and politician. Known for mortally wounding the great Russian poet A.S. Pushkin in a duel. |
+| 5 February 1878 - 3 July 1935       | André Citroën            | French industrialist. Founder of Citroën and the car brand of the same name. |
+| 6 February 1929 - 4 May 2008        | Colin Murdoch            | New Zealand pharmacist. Invented and patented the disposable plastic syringe in 1956. |
+| 7 February 1906 - 4 April 1984      | Oleg Antonov             | Soviet aircraft designer, Doctor of Technical Sciences, Professor. Under his leadership, many "An" aircraft for various purposes were designed. |
+| 7 February 1812 - 9 June 1870       | Charles Dickens          | English writer, stenographer, reporter, novelist, and essayist. He opened up and poetized the world of slums and their morals for literature. |
+| 8 February 1816                   | Day of the First Police Operation with a Service Dog | During the arrest of a criminal gang in Aberdeen County, England, a service dog worked with local law enforcement for the first time. |
+| 8 February 1828 - 24 March 1905     | Jules Verne              | French writer, a classic of adventure literature. One of the founders of the science fiction genre. |
+| 9 February 1969                   | First Flight of the Boeing 747 | The first wide-body long-haul passenger airliner. |
+| 8 February 1834 - 2 February 1907   | Dmitri Mendeleev         | Russian scientist, encyclopedist, chemist, physicist, metrologist, economist, technologist, geologist, meteorologist, oilman, teacher, balloonist. Discovered the periodic law of chemical elements. |
+| 9 February 1846 - 29 December 1929  | Wilhelm Maybach          | Pioneer in automotive engineering. Co-founder of Daimler-Motoren-Gesellschaft, creator of the first car under the Mercedes brand. |
+| 9 February 1887 - 5 September 1919  | Vasily Chapayev          | Legendary Soviet military leader, hero of the Civil War. |
+| 10 February 1890 - 30 May 1960      | Boris Pasternak          | Russian poet, writer, and translator. One of the greatest Russian poets of the 20th century. Nobel laureate. |
+| 28 September 1887 - 26 February 1973 | Beulah Louise Henry      | American self-taught inventor. Author of about 110 inventions: a freezer for ice cream, a can opener, a valve for inflatable items, a doll with eyes that could change color, and toys that could open and close eyes. |
+| 10 February 1911 - 24 June 1978     | Mstislav Keldysh         | Soviet mathematician, mechanic, and academician. Major organizer of Soviet science, one of the ideologists of the Soviet space program. |
+| 12 February 1809 - 15 April 1865    | Abraham Lincoln          | Sixteenth President of the USA (1861-1865). National hero who abolished slavery in the USA. |
+| 12 February 1809 - 19 April 1882    | Charles Robert Darwin    | English naturalist and traveler. Author of the modern theory of evolution. |
+| 12 February 1910 - 19 November 1987 | Lee Byung-chul           | Korean businessman. Founder of the Samsung Group. |
+| 13 February 1946                   | World Radio Day          | On this day, the UN Radio station first aired, located at the United Nations Headquarters. |
+| 13 February 1769 - 21 November 1844 | Ivan Krylov              | Russian poet and fabulist. Best known as the author of 236 fables collected in nine lifetime editions. |
+| 13 February 1873 - 12 April 1938    | Fyodor Chaliapin         | Russian opera and chamber singer (bass). Greatly influenced the world of opera art. |
+| 13 February 1883 - 29 May 1922      | Yevgeny Vakhtangov       | Russian and Soviet theater director, actor, and teacher. Founder of the theater that bears his name. |
+| 14 February                        | International Book Giving Day | A day that unites those who give books to children and instills in them a love for reading. |
+| 15 February 1564 - 8 January 1642   | Galileo Galilei          | Italian physicist, mechanic, astronomer, philosopher, mathematician. Significantly influenced the science of his time. |
+| 16 February 1834 - 9 August 1919    | Ernst Haeckel            | German biologist-evolutionist. Coined terms like "Pithecanthropus", "phylogeny", "ontogeny", and "ecology". |
+| 17 February 1901 - 1 April 1981     | Agniya Barto             | Russian poetess. Author of poems for children. |
+| 18 February 1930                  | Discovery of Pluto        | American astronomer Clyde Tombaugh discovered a new planet at the Lowell Observatory. |
+| 18 February 1745 - 5 March 1827     | Alessandro Volta         | Italian physicist, chemist, and physiologist. One of the founders of the theory of electricity. |
+| 18 February 1898 - 14 August 1988   | Enzo Anselmo Giuseppe Ferrari | Italian designer, entrepreneur, and racing driver. Founder of the Ferrari automobile manufacturing company and the racing team of the same name. |
+| 19 February 1473 - 24 May 1543      | Nicolaus Copernicus      | Polish astronomer, mathematician, mechanic, economist. Known as the author of the heliocentric system of the world, which initiated the first scientific revolution. |
+| 19 February                       | World Whale Day          | Established in 1986. A day dedicated to protecting not only whales but all marine mammals and various other living creatures inhabiting the seas and oceans of our planet. |
+| 20 February 1844 - 5 September 1906 | Ludwig Boltzmann         | Austrian theoretical physicist. One of the founders of statistical physics and physical kinetics. |
+| 22 February 1857 - 1 January 1894   | Heinrich Rudolf Hertz    | German physicist. One of the founders of electrodynamics. Hertz proved the existence of electromagnetic waves. |
+| 22 February 1788 - 21 September 1860 | Arthur Schopenhauer      | German philosopher. One of the most famous thinkers of irrationalism, misanthrope. |
+| 23 February 1879 - 15 May 1935      | Kazimir Malevich         | Russian abstract artist. Founder of Suprematism, one of the major directions of abstractionism. |
+| 23 February 1685 - 14 April 1759    | George Frideric Handel   | German and English composer. Known for his operas, oratorios, and concerts. |
+| 24 February 1786 - 16 December 1859 | Wilhelm Grimm            | German philologist. One of the Brothers Grimm, aimed at reviving public and scientific interest in folk culture (folklore). |
+| 24 February 1955 - 5 October 2011   | Steven Paul Jobs         | American entrepreneur, inventor, and industrial designer. Founder and leader of Apple Corporation. One of the founders of Pixar. |
+| 24 February 1745 - 14 October 1817  | Fyodor Ushakov           | Outstanding naval commander. Ushakov won five major naval battles and did not suffer a single defeat. |
+| 25 February 1943 - 29 November 2001 | George Harrison          | English rock musician. Guitarist of The Beatles. |
+| 25 February 1909 - 1 March 1973     | Lev Artsimovich          | Soviet physicist, academician. Under his leadership, the first thermonuclear reactor model - "Tokamak" - was created. |
+| 25 February 1873 - 2 August 1921    | Enrico Caruso            | Italian opera singer (tenor). Known for performing roles in operas by Giuseppe Verdi, "Il Trovatore", "Un ballo in maschera", "Aida", Leoncavallo "Pagliacci", Puccini "La Fanciulla del West". |
+| 26 February 1802 - 22 May 1885      | Victor Marie Hugo        | French romantic writer. Wrote "The Hunchback of Notre-Dame", "Les Misérables", etc. |
+| 26 February 1829 - 26 September 1902 | Levi Strauss             | American industrialist. Inventor of jeans. |
+| 26 February 1869 - 27 February 1939 | Nadezhda Krupskaya       | Russian revolutionary. Wife of V.I. Lenin. |
+| 27 February                      | International Polar Bear Day | Aimed at raising awareness about polar bears and drawing attention to the need for their protection. |
+| 27 February 1887 - 8 September 1914 | Pyotr Nesterov           | Russian military pilot. Founder of aerobatics. |
+| 28 February 1066                 | Opening of Westminster Abbey | Gothic church in Westminster (London), the traditional site of the coronation of British monarchs. |
+| 28 February 1683 - 17 October 1757  | René Antoine Ferchault de Réaumur | French physicist and mathematician. Discovered that wasps use plant fibers for nest construction, similar to cardboard. Concluded that paper can be made from wood. |
+| 28 February 1802 - 22 September 1861 | Ernst Friedrich Zwirner  | German architect. Creator of the Cologne Cathedral. |
