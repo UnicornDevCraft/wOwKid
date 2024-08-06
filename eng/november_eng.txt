@@ -1,0 +1,57 @@
+| Date                        | Person/Event                     | Description |
+|-----------------------------|----------------------------------|-------------|
+| 1 November 1578 - 30 April 1642 | Dmitry Mikhailovich Pozharsky   | National hero of Russia, known for his role in the liberation of Moscow from Polish-Lithuanian invaders in 1611 |
+| 2 November 1815 - 8 December 1864 | George Boole                    | English mathematician and logician, one of the founders of mathematical logic |
+| 2 November 69 BC - 12 August 30 BC | Cleopatra VII Philopator        | The last queen of Egypt from the Ptolemaic dynasty, ruled Egypt for 22 years |
+| 3 November 1887 - 4 July 1964     | Samuil Yakovlevich Marshak       | Poet, playwright, translator, and literary critic, famous for children's books like "The House That Jack Built" and "The Tale of the Silly Mouse" |
+| 4 November 1784 - 28 June 1834    | Osip Ivanovich Bove              | Russian architect, known for the reconstruction of Moscow after the fire of 1812, worked mainly in the classical style |
+| 5 November 1878 - 15 February 1939 | Kuzma Sergeevich Petrov-Vodkin   | Russian and Soviet painter, graphic artist, art theorist, playwright, writer, and teacher |
+| 6 November 1814 - 4 February 1894 | Antoine-Joseph "Adolphe" Sax    | Belgian inventor and musician, known for inventing the saxophone and saxhorns |
+| 6 November 1852 - 15 November 1912 | Dmitry Narkisovich Mamin-Sibiryak | Russian prose writer and playwright, known for novels and stories about life in the Ural Mountains |
+| 7 November 1911 - 25 October 1971  | Mikhail Kuzmich Yangel           | Soviet rocket and space technology designer, academician, led the development and successful testing of the R-12 medium-range missile in 1957 |
+| 7 November 1867 - 4 July 1934      | Marie Skłodowska-Curie           | Scientist-experimenter (physicist, chemist), the first woman to win a Nobel Prize and the first person to win it twice, discovered radium and polonium with her husband |
+| 7 November 1891 - 15 March 1926    | Dmitry Andreyevich Furmanov      | Soviet prose writer, best known for the novel "Chapaev" |
+| 8 November 1900 - 16 August 1949   | Margaret Munnerlyn Mitchell      | American writer and journalist, author of the novel "Gone with the Wind" |
+| 8 November 1923 - 20 June 2005     | Jack St. Clair Kilby             | American scientist, Nobel Prize laureate in physics, inventor of the first integrated circuit, pocket calculator, and thermal printer |
+| 8 November 1834 - 25 April 1882    | Johann Karl Friedrich Zöllner    | German astrophysicist and astronomer, known for his work on the structure of comets and the Sun's atmosphere, invented the photometer and spectroscope |
+| 9 November 1801 - 11 January 1874  | Gail Borden                      | American businessman and inventor, known for inventing condensed milk |
+| 9 November 1818 - 3 September 1883 | Ivan Sergeyevich Turgenev        | Russian writer, poet, publicist, dramatist, prose writer, and translator, known for works like "A Hunter's Sketches", "Mumu", "First Love", "Asya", "Fathers and Sons" |
+| 10 November 1888 - 23 December 1972 | Andrey Nikolayevich Tupolev      | Soviet scientist and aircraft designer, created the Tu-series aircraft |
+| 9 November 1929                  | Aleksandra Nikolayevna Pakhmutova | Soviet and Russian composer and pianist, author of more than 400 songs, public figure, People's Artist of the USSR |
+| 10 November 1919 - 23 December 2013 | Mikhail Timofeyevich Kalashnikov | Designer of the world-famous Kalashnikov assault rifle (AK), small arms designer, Doctor of Technical Sciences, Lieutenant General |
+| 10 November 1928 - 6 July 2020     | Ennio Morricone                  | Italian composer, arranger, and conductor, wrote music for more than 400 films and TV series, recognized as one of the most famous film composers |
+| 12 November 1840 - 17 November 1917 | François Auguste René Rodin      | French sculptor, known for his skill in conveying movement and emotional states, famous works include "The Thinker", "The Burghers of Calais", "The Kiss" |
+| 11 November 1821 - 9 February 1881  | Fyodor Mikhailovich Dostoevsky   | Russian writer, thinker, philosopher, and publicist, known for novels like "Crime and Punishment", "Demons", and "The Brothers Karamazov" |
+| 12 November 1929 - 14 September 1982 | Grace Patricia Kelly             | American actress and Princess of Monaco, known for films like "High Noon" and "Rear Window", received an Oscar and was one of the highest-paid actresses of her time |
+| 13 November 1718 - 30 April 1792   | John Montagu, 4th Earl of Sandwich | English diplomat and First Lord of the Admiralty, invented the sandwich, which is named after him |
+| 13 November 1745 - 19 March 1822   | Valentin Haüy                    | French pedagogue, one of the first teachers of the blind, created the first educational institutions for the blind and developed a relief alphabet for the visually impaired |
+| 13 November 1850 - 3 December 1894 | Robert Louis Stevenson           | Scottish writer and poet, known for adventure novels like "Treasure Island" and "The Black Arrow" |
+| 14 November 1765 - 24 February 1815 | Robert Fulton                    | American engineer and inventor, known for developing one of the first steamboats and designing one of the first submarines |
+| 14 November 1907 - 28 January 2002 | Astrid Anna Emilia Lindgren      | Swedish writer, known for children's books like "Pippi Longstocking" and "Karlsson-on-the-Roof" |
+| 15 November 1875 - 1913            | Vladimir Alexandrovich Rusanov   | Russian Arctic explorer, first to cross Novaya Zemlya overland, discovered coal deposits in Spitsbergen and secured Russian mining rights |
+| 14 November 1924 - 17 December 1982 | Leonid Borisovich Kogan          | Soviet violinist and teacher, one of the greatest violinists of the 20th century, recipient of the Lenin Prize (1965) |
+| 15 November 1738 - 25 August 1822  | Friedrich Wilhelm Herschel       | English astronomer, discovered the planet Uranus and its moons Titania and Oberon, as well as two moons of Saturn and infrared radiation |
+| 16 November 1874 - 7 February 1920 | Alexander Vasilyevich Kolchak    | Russian statesman, politician, military leader, and scientist-oceanographer, known for leading the White movement during the Russian Civil War |
+| 17 November 1790 - 26 September 1868 | August Ferdinand Möbius         | German mathematician, mechanic, and theoretical astronomer, discovered the existence of one-sided surfaces (Möbius strip) |
+| 16 November 1673 - 23 November 1729 | Alexander Danilovich Menshikov  | Russian statesman and military leader, first governor of Saint Petersburg, president of the Military Collegium |
+| 17 November 1906 - 5 August 1991   | Soichiro Honda                  | Japanese engineer, inventor, and businessman, founder of the Honda company |
+| 18 November 1787 - 10 July 1851    | Louis Jacques Mandé Daguerre    | French artist, chemist, and inventor, one of the creators of photography |
+| 20 November 1925 - 2 May 2015      | Maya Mikhailovna Plisetskaya    | Soviet and Russian ballerina, choreographer, and prima ballerina, considered one of the greatest ballerinas of the 20th century |
+| 19 November 1711 - 15 April 1765   | Mikhail Vasilyevich Lomonosov   | First major Russian scientist-naturalist, founder of scientific navigation and physical chemistry, laid the foundations of glass science, founded Moscow State University |
+| 19 November 1770 - 24 August 1846  | Ivan Fyodorovich Kruzenshtern   | Russian navigator and admiral, led the first Russian circumnavigation (1803-1806) |
+| 21 November 1783                 | First Human Flight in a Hot Air Balloon | Took place in the western suburb of Paris from the garden of the castle de la Muette |
+| 23 November 1991                 | International Watercolor Day    | Celebrated annually to promote the art of watercolor painting |
+| 22 November 1801 - 4 October 1872  | Vladimir Ivanovich Dahl         | Russian writer, ethnographer, lexicographer, and folklorist, created the "Explanatory Dictionary", which took 53 years to compile |
+| 22 November 1909 - 31 January 1970 | Mikhail Leontyevich Mil         | Soviet helicopter designer and scientist, created the first Soviet serial 3-seat helicopter Mi-1 in 1951 |
+| 23 November 1908 - 26 July 1976    | Nikolay Nikolaevich Nosov       | Soviet children's writer, playwright, and screenwriter, author of the trilogy about Dunno |
+| 26 November 1607 - 14 September 1638 | John Harvard                    | English Christian preacher, Harvard University was named in his honor |
+| 24 November 1729 - 18 May 1800     | Alexander Vasilyevich Suvorov   | Russian generalissimo, greatest Russian military leader, never lost a battle in his career, led over 60 battles and engagements |
+| 25 November 1844 - 4 April 1929    | Karl Friedrich Michael Benz     | German engineer and inventor, pioneer in automobile construction, tested the first automobile in 1885, the Daimler logo represents "Engines for land, air, and water" |
+| 26 November 1894 - 18 March 1964   | Norbert Wiener                  | American mathematician, one of the founders of cybernetics and artificial intelligence theory |
+| 28 November 1880 - 7 August 1921   | Alexander Alexandrovich Blok    | Russian poet of the Silver Age, writer, publicist, playwright, translator, and literary critic, one of the leading representatives of Russian symbolism |
+| 27 November 1701 - 25 April 1744   | Anders Celsius                  | Swedish astronomer, geologist, and meteorologist, created a new temperature scale named after him |
+| 28 November 1829 - 20 November 1894 | Anton Grigoryevich Rubinstein   | Russian composer, pianist, conductor, and music teacher, founded the first Russian conservatory in Saint Petersburg in 1862 |
+| 29 November 1802 - 18 November 1827 | Wilhelm Hauff                   | German writer and novelist, known for fairy tales like "Little Muck" |
+| 30 November 1835 - 21 April 1910   | Mark Twain                      | American writer, known for novels "The Adventures of Tom Sawyer" and "The Adventures of Huckleberry Finn" |
+| 29 November 1825 - 16 August 1893  | Jean-Martin Charcot             | French psychiatrist and educator, teacher of Sigmund Freud, specialist in neurological diseases, invented the Charcot shower |
+| 30 November                    | World Pets Day                  | Celebrated with the motto from Antoine de Saint-Exupéry's "The Little Prince": "You are responsible, forever, for what you have tamed" |

@@ -1,0 +1,37 @@
+| Date                   | Person/Event                | Description |
+|------------------------|-----------------------------|-------------|
+| 1 January 2023         | Happy New Year!             | First day of the year |
+| 2 January 1839         | First Moon Photograph       | Louis Daguerre took the first photograph of the Moon |
+| 3 January 106 - 7 December 43  | Marcus Tullius Cicero  | Roman statesman and politician, orator, philosopher, scholar. Made a brilliant career thanks to his oratory talent |
+| 4 January 1643 - 31 March 1727  | Isaac Newton           | English physicist, mathematician, mechanic, and astronomer. One of the creators of classical physics and mathematical analysis |
+| 4 January 1934         | Zurab Konstantinovich Tsereteli | Monumentalist artist, sculptor, painter, teacher. Author of more than 5000 works of painting, graphics, sculpture, monumental and decorative art (frescoes, mosaics, panels), etc. |
+| 5 January 1592 - 22 January 1666 | Shah Jahan             | Statesman, Mughal emperor. Immortalized his name by building the Taj Mahal for his wife Mumtaz Mahal |
+| 6 January 1412 - 30 May 1431   | Joan of Arc             | National heroine of France. One of the commanders of French troops in the Hundred Years' War |
+| 7 January               | Christmas                   | One of the main Christian holidays, established in honor of the birth of Jesus Christ from the Virgin Mary |
+| 8 January 1935 - 16 August 1977 | Elvis Aaron Presley     | American singer and actor. One of the creators of rock and roll. Known as the "King of Rock and Roll" |
+| 9 January 1797 - 6 June 1870   | Ferdinand Petrovich Wrangel | Military and statesman, sailor and polar explorer, admiral. Head of the Naval Ministry |
+| 10 January 1883 - 23 February 1945 | Alexey Nikolayevich Tolstoy | Russian and Soviet writer and public figure. Author of social and psychological, historical and science fiction novels, stories, and tales |
+| 11 January              | International Thank You Day | This day can be called one of the most "polite" dates of the year |
+| 12 January 1876 - 22 November 1916 | Jack London            | American writer and journalist. Best known as the author of adventure stories and novels such as "White Fang", "The Call of the Wild", "The Sea-Wolf" |
+| 12 January 1907 - 14 January 1966 | Sergei Pavlovich Korolev | Chief designer of the rocket and space industry of the USSR. One of the main creators of Soviet rocket and space technology and a key figure in human space exploration |
+| 13 January 1864 - 30 August 1928 | Wilhelm Carl Wien      | German physicist. Nobel Prize laureate in physics in 1911 for his discoveries in the field of laws governing thermal radiation |
+| 14 January              | Old New Year                | A rare historical phenomenon, an additional holiday that resulted from a change in the calendar |
+| 15 January 1795 - 11 February 1829 | Alexander Sergeyevich Griboyedov | Russian poet, prose writer, playwright, diplomat, linguist, historian, orientalist, pianist, and composer. Best known for the play in verse "Woe from Wit", which is still often staged in theaters |
+| 15 January 1850 - 10 February 1891 | Sofya Vasilyevna Kovalevskaya | Russian mathematician and mechanic. The first female professor of mathematics in the world. Author of the novella "Nihilist Girl" and the book "Memories of Childhood" |
+| 16 January 1901 - 27 July 1988  | Frank Joseph Zamboni    | American inventor, engineer, and entrepreneur. Best known for inventing the ice resurfacer, which is used to maintain ice on skating rinks |
+| 17 January 1706 - 17 April 1790 | Benjamin Franklin       | American statesman, diplomat, inventor, scientist, philosopher, writer. One of the Founding Fathers of the USA |
+| 17 January 1847 - 17 March 1921 | Nikolai Yegorovich Zhukovsky | Russian scientist-mechanic. Founder of hydrodynamics and aerodynamics |
+| 18 January 1882 - 31 January 1956 | Alan Alexander Milne    | British writer, poet, and playwright. Best known as the author of the fairy tales about "the bear with a stuffing head" — Winnie the Pooh |
+| 20 January 1775 - 10 June 1836  | André-Marie Ampère      | French physicist, mathematician, and naturalist. Founder of electrodynamics. Known as the "Newton of Electricity". Made significant contributions to physics, mechanics, probability theory, and mathematical analysis |
+| 21 January              | International Hug Day       | According to the tradition of the holiday, you can even hug a stranger in a friendly embrace on this day |
+| 22 January 1908 - 1 April 1968  | Lev Davidovich Landau    | Soviet theoretical physicist, founder of a scientific school. Nobel Prize laureate in physics. Initiator of the creation and author of the fundamental classical Course of Theoretical Physics |
+| 23 January 1832 - 30 April 1883 | Édouard Manet           | French painter, engraver. One of the founders of Impressionism. Many of his paintings became decorations of the most famous museums in the world, such as "White Peonies", "Bar at the Folies-Bergère", "Olympia", "Luncheon on the Grass" |
+| 24 January 1848 - 19 March 1916 | Vasily Ivanovich Surikov | Russian painter. Master of large-scale historical paintings, academician and full member of the Imperial Academy of Arts |
+| 25 January 1832 - 20 March 1898  | Ivan Ivanovich Shishkin  | Russian landscape painter, painter, draftsman, and engraver-aquafortist. Known for paintings such as "Morning in a Pine Forest", "In the Wild North", "Clouds" |
+| 25 January 1938 - 25 July 1980   | Vladimir Semyonovich Vysotsky | Soviet poet, theater and film actor, songwriter. Strongly influenced the views of his contemporaries and subsequent generations |
+| 26 January              | World Environmental Education Day | A holiday aimed at achieving harmonious relationships between humans and the environment |
+| 27 January 1756 - 5 December 1791 | Wolfgang Amadeus Mozart | Austrian composer, violinist-virtuoso, harpsichordist, organist. Had a great influence on world musical culture. Possessed phenomenal musical hearing, memory, and improvisational skills |
+| 28 January              | International LEGO Day      | A holiday uniting many generations of children and adults fascinated by building constructors |
+| 29 January 1860 - 15 July 1904   | Anton Pavlovich Chekhov  | Writer, playwright, doctor. A classic of world literature. One of the most famous playwrights in the world. His works have been translated into more than a hundred languages. His plays have been staged in many theaters around the world for more than a hundred years |
+| 30 January 1900 - 25 July 1955   | Isaak Osipovich Dunayevsky | Soviet composer and conductor. Author of 11 operettas and four ballets, music for several dozen films, many popular Soviet songs |
+| 31 January 1797 - 19 November 1828 | Franz Peter Schubert    | Austrian composer. One of the founders of Romanticism in music, author of 602 vocal compositions, nine symphonies, and a large number of chamber and solo piano works |

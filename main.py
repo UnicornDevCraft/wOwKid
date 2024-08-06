@@ -28,7 +28,7 @@ def chooseLang():
                     case 0:
                         itemLang = 'eng'
                     case 1:
-                        itemLang = 'rus'
+                        itemLang = 'ru'
                     case 2:
                         itemLang = 'ua'
                     case 3:
@@ -69,7 +69,7 @@ def chooseLang():
                         else:
                             print('It is not valid, please try again.')
                             pass
-                    toFile = itemTopic + '/' + itemTopic + '_' + itemLang + '.txt'
+                    toFile = itemLang + '/' + itemTopic + '_' + itemLang + '.txt'
                     askLang = False
                 except Exception:
                     print("Please enter a valid number")

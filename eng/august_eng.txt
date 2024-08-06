@@ -1,0 +1,53 @@
+| Date                        | Person/Event                     | Description |
+|-----------------------------|----------------------------------|-------------|
+| 1 August 1818 - 26 June 1889  | Maria Mitchell                  | American astronomer. In 1847, she discovered a comet, which became known as "Miss Mitchell's Comet". She received a gold medal for this discovery |
+| 2 August                    | Birthday of the Mailbox          | The first mailbox was installed in Vienna in 1785 |
+| 3 August 1905 - 13 April 1972  | Boris Vasilyevich Kurchatov     | One of the founders of Soviet radiochemistry, Doctor of Chemical Sciences, Professor |
+| 4 August                    | Speleologist's Day               | The science of caves, their origin and geological conditions, deposits, and useful minerals, living conditions of organisms |
+| 5 August 1850 - 6 July 1893    | Henri René Albert Guy de Maupassant | One of the great French realists of the 19th century, writer |
+| 5 August 1893 - 16 February 1919 | Vera Vasilyevna Kholodnaya      | Known as the "Queen of the Screen" of early 20th-century Russian cinema, silent film actress |
+| 5 August 1905 - 9 December 1970  | Artyom Ivanovich Mikoyan       | Famous Soviet aircraft designer, one of the founders of jet aviation in the USSR |
+| 5 August 1844 - 29 September 1930 | Ilya Yefimovich Repin          | Russian painter, became one of the key figures of Russian realism |
+| 5 August                    | International Traffic Light Day | On this day in Cleveland, the first predecessor of modern devices appeared. It had red and green lights and emitted a sound signal when switching lights |
+| 6 August 1881 - 11 March 1955   | Alexander Fleming               | British microbiologist who discovered lysozyme and isolated penicillin (the first antibiotic) |
+| 7 August 1859 - 7 July 1926    | Fyodor Osipovich Shekhtel       | Russian architect, painter, graphic artist, and stage designer. One of the most prominent representatives of Art Nouveau in Russian and European architecture |
+| 8 August                    | International Climbing Day      | Commemorates the first ascent of Mont Blanc, the highest peak of the Alps |
+| 8 August 1948                | Svetlana Yevgenyevna Savitskaya | Soviet cosmonaut, test pilot, educator, and public figure. The first woman to conduct a spacewalk |
+| 9 August 1776 - 9 July 1856    | Amedeo Avogadro                  | Italian scientist, physicist, and chemist who discovered the chemical formula for water |
+| 9 August 1899 - 23 April 1996   | Pamela Lyndon Travers            | English writer, known for her series of children's books about Mary Poppins |
+| 9 August 1914 - 27 June 2001    | Tove Marika Jansson              | Finnish writer, artist, and illustrator, best known for her books about the Moomins |
+| 10 August 1845 - 6 July 1904    | Abay (Ibrahim) Kunanbayev        | Founder of Kazakh written literature and its first classic, cultural reformer |
+| 10 August 1889 - 29 August 1967  | Charles Darrow                  | American entrepreneur, creator of the board game "Monopoly" |
+| 10 August 1814 - 7 July 1890    | Henry Nestle                    | Pharmacist, founder of the globally renowned company "Nestle" |
+| 11 August                   | Balloon Flight Day              | Dedicated to the first flights in the air by the Montgolfier brothers |
+| 12 August 1904 - 17 July 1918   | Alexei Nikolaevich Romanov       | Russian Tsarevich and Grand Duke, the fifth child and only son of the last Russian Emperor Nicholas II |
+| 13 August 1926 - 25 November 2016 | Fidel Alejandro Castro Ruz      | Cuban revolutionary, statesman, political and party leader, led Cuba from 1959 to 2008 |
+| 13 August                   | Builder's Day                   | First celebrated in the USSR on 12 August 1956. In 2023, this professional holiday for construction workers falls on 13 August |
+| 15 August 1863 - 26 October 1945 | Alexei Nikolaevich Krylov        | Founder of modern Russian shipbuilding, author of classic works on ship oscillation theory, shipbuilding mechanics, ship vibration theory, and unsinkability |
+| 15 August                   | Archaeologist's Day             | The term "archaeology" first appeared in the works of the famous ancient Greek philosopher Plato, meaning "knowledge, stories about antiquity" |
+| 15 August 1769 - 5 May 1821    | Napoleon I Bonaparte             | French Emperor, commander, and statesman who laid the foundations of the modern French state |
+| 15 August 1771 - 21 September 1832 | Walter Scott                   | English poet, novelist, and historian, considered the founder of the historical novel genre |
+| 16 August 1876 - 7 February 1942  | Ivan Yakovlevich Bilibin         | Russian artist and book illustrator, creator of the official symbol of the Russian Empire |
+| 16 August 1845 - 12 July 1921    | Gabriel Jonas Lippmann           | French physicist, Nobel Prize laureate in Physics in 1908 |
+| 17 August 1601 - 12 January 1665  | Pierre de Fermat                 | French mathematician, one of the creators of analytical geometry, mathematical analysis, probability theory, and number theory |
+| 17 August 1942 - 25 October 2008  | Muslim Magometovich Magomayev   | Soviet, Azerbaijani, and Russian pop and opera singer (baritone), actor, composer, and People's Artist of the USSR |
+| 18 August 1830 - 21 November 1916 | Franz Joseph I of Austria        | Austrian Emperor and King of Hungary, started the First World War |
+| 18 August 1824 - 21 May 1915    | Pierre-Émile Martin              | French metallurgist, created the Martin furnace (for processing pig iron and black metal scrap) |
+| 18 August                   | Border Guards' Day in Kazakhstan | Special service responsible for protecting and defending the state border of the Republic of Kazakhstan |
+| 19 August 1883 - 10 January 1971  | Gabrielle Bonheur "Coco" Chanel  | French couturier, founder of the Chanel fashion house, significantly influenced 20th-century European fashion |
+| 21 August                   | Air Fleet Day of Russia          | Professional holiday for pilots, engineering and technical staff, dispatchers, flight attendants, and aviation infrastructure workers in Russia |
+| 21 August 1698 - 17 October 1744  | Giuseppe Guarneri                | Italian violin maker, many great violinists such as Niccolò Paganini and Vieuxtemps played his instruments |
+| 22 August 1991               | State Flag Day of the Russian Federation | On this day, the tricolor Russian flag was officially raised in Moscow, replacing the red banner with the sickle and hammer as the national symbol |
+| 23 August 1754 - 21 January 1793  | Louis XVI                        | King of France during the French Revolution of 1789 |
+| 23 August 1932 - 30 October 2018  | David Yanovich Cherkassky        | Soviet animation director, known for "The Adventures of Captain Vrungel", "Treasure Island", and "Doctor Aibolit" |
+| 25 August 1819 - 1 July 1884    | Alan Pinkerton                   | American detective and scout, founder of the world's first detective agency |
+| 23 August 1880 - 8 July 1932    | Alexander Stepanovich Green      | Russian writer, poet, and prose writer, representative of Neo-romanticism. Published about four hundred works, including "Scarlet Sails", "Running on Waves", "Assol" |
+| 24 August 1787 - 9 September 1834 | James Weddell                    | British navigator and whaler, one of the first Antarctic explorers. The Weddell Sea in the Southern Ocean and a species of seals he discovered are named after him |
+| 25 August 1530 - 28 March 1584  | Ivan IV Vasilyevich "the Terrible" | First crowned Tsar of all Russia, ruler of the Grand Duchy of Moscow |
+| 26 August 1740 - 26 June 1810   | Joseph-Michel Montgolfier        | One of the creators of the hot air balloon, member of the Paris Academy of Sciences |
+| 26 August 1910 - 5 September 1997 | Mother Teresa (Saint Teresa of Calcutta) | Catholic nun, founder of the Missionaries of Charity, Nobel Peace Prize laureate |
+| 27 August 1896 - 3 November 1993 | Lev Sergeyevich Termen           | Soviet inventor, electrical engineer, and musician, creator of the theremin (electronic musical instrument), laureate of the Stalin Prize I degree |
+| 28 August 1749 - 22 March 1832  | Johann Wolfgang von Goethe       | German writer, thinker, philosopher, naturalist, and statesman. His works, especially the tragedy "Faust", are recognized as masterpieces of German and world literature |
+| 30 August 1860 - 4 August 1900  | Isaac Ilyich Levitan             | Russian artist, founder of the "mood landscape" genre |
+| 31 August 1945                 | Leonid Ivanovich Popov            | Soviet cosmonaut, twice Hero of the Soviet Union, commander of spacecraft and orbital research complexes |
+| 29 August                    | Birthday of the Motorcycle        | On this day in 1885, German engineer Gottlieb Daimler patented a riding carriage with a kerosene engine |

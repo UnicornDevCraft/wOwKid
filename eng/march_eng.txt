@@ -1,0 +1,50 @@
+| Date                     | Person/Event                | Description |
+|--------------------------|-----------------------------|-------------|
+| 1 March 1445 - 17 May 1510    | Sandro Botticelli       | Italian painter. One of the significant masters of the early Italian Renaissance, representative of the Florentine school of painting of the Quattrocento period. |
+| 1 March 1906 - 27 June 1944    | Vera Menchik            | Russian chess player. The first and eight-time world champion in women's chess. |
+| 2 March                     | International Match Day   | A match is a stick made of combustible material (usually wood) with a striking head at the end, used to produce an open flame. |
+| 3 March                     | World Wildlife Day        | Aimed at spreading information about the need to preserve and protect the nature of our planet. |
+| 3 March 1847 - 2 August 1922    | Alexander Graham Bell   | American scientist, inventor. One of the founders of telephony, founder of the American Telephone and Telegraph Company. |
+| 4 March 1678 - 28 July 1741    | Antonio Lucio Vivaldi   | Italian composer, violinist, conductor. His most famous work is "The Four Seasons". |
+| 4 March 1937 - 25 September 2003 | Yuri Senkevich          | Soviet and Russian traveler, TV host, scientist. Host of the oldest TV show in Soviet and Russian television — "Traveler's Club". |
+| 5 March 1685 - 14 April 1759    | George Frideric Handel  | German composer and organist. A great musician of the Enlightenment era. In his time, he was much more popular than Johann Sebastian Bach. |
+| 6 March                     | International Dentist's Day | In 1790, John Greenwood, a dentist from Washington and personal dentist to George Washington, invented the dental drill. |
+| 6 March 1475 - 18 February 1564  | Michelangelo Buonarroti | Italian sculptor, painter, architect. One of the greatest masters of the Renaissance and early Baroque — considered the true "father of Baroque" in architecture. |
+| 7 March 1878 - 26 May 1927    | Boris Kustodiev          | Russian portrait painter. Captured scenes of Russian everyday life and holidays in his bright and cheerful paintings. |
+| 6 March 1913 - 13 November 1985 | Alexander Pokryshkin    | Soviet ace pilot. Military pilot of the 1st class. The first thrice Hero of the Soviet Union. |
+| 9 March 1934 - 27 March 1968    | Yuri Gagarin            | Soviet pilot-cosmonaut. On April 12, 1961, he became the first human in history to fly into space. On the spacecraft "Vostok", he was the first to orbit the Earth. |
+| 9 March 1943 - 17 January 2008   | Robert James Fischer    | Eleventh world chess champion. One of the brightest and most outstanding chess players of the 20th century, enriched chess theory with numerous developments. |
+| 10 March 1926                | Alexander Zatsepin       | Soviet and Russian composer. Known for composing music for many famous films, including almost all of Leonid Gaidai's films. |
+| 8 March                    | International Women's Day | Officially recognized as a holiday by the UN in 1975. |
+| 14 March 1879 - 18 April 1955   | Albert Einstein         | German physicist. One of the founders of modern theoretical physics. His theory of relativity changed the foundations of physics, replacing classical mechanics and Newton's law of universal gravitation. |
+| 13 March 1781               | Discovery of Uranus      | Uranus, a planet in the Solar System, was discovered by English astronomer William Herschel. |
+| 14 March 1804 - 25 September 1849 | Johann Baptist Strauss   | Austrian composer, violinist, conductor. Founder of the Strauss musical dynasty. |
+| 12 March 1863 - 6 January 1945  | Vladimir Vernadsky      | Scientist-naturalist, thinker, and public figure. Founder of geochemistry, biogeochemistry, and radiogeology. |
+| 16 March 1789 - 6 July 1854    | Georg Simon Ohm         | German physicist. Theoretically derived and experimentally confirmed the law expressing the relationship between current strength in a circuit, voltage, and resistance (known as Ohm's Law). |
+| 16 March 1859 - 13 January 1906  | Alexander Popov        | Russian physicist and electrical engineer. One of the inventors of radio. Also studied X-rays and made the first X-ray images in Russia of objects and parts of the human body. |
+| 17 March 1834 - 6 March 1900    | Gottlieb Wilhelm Daimler | German engineer, designer, and industrialist. In late 1885, he built his first engine, invented the carburetor, and patented the first motorcycle. In 1889, he built his first car. |
+| 15 March                    | International Seal Protection Day | Dedicated to the protection of Greenland seal pups. |
+| 18 March 1844 - 21 June 1908    | Nikolai Rimsky-Korsakov | Russian composer, teacher, conductor, public figure. His works include 15 operas, 3 symphonies, symphonic works, instrumental concerts, and cantatas. |
+| 18 March 1858 - 29 September 1913 | Rudolf Diesel           | German engineer and inventor. Creator of the diesel engine. |
+| 17 March                    | World Sleep Day         | Celebrated annually on the Friday before the spring equinox. |
+| 17 March 1856 - 14 April 1910    | Mikhail Vrubel          | Russian artist. Worked in almost all types and genres of fine art. |
+| 21 March                    | World Poetry Day        | Reviving the ancient tradition of live poetic words. |
+| 20 March                    | Earth Day               | Global movement of civic initiatives to protect the planet as a common global home. |
+| 21 March                    | Vernal Equinox Day      | One of the unique natural phenomena, the essence of which is that "at the moment of the equinox, the center of the Sun in its visible movement along the ecliptic crosses the celestial equator". |
+| 19 March 1813 - 1 May 1873      | David Livingstone       | Scottish missionary, explorer of Africa. Had a rare habit for a traveler of not giving newly discovered lands his own names but preferred to map them and preserve the local national names. |
+| 21 March                    | International Day of Forests | Today, the area of forests on the planet is about 38 million sq. km (about one-third of the land area), of which 13% are protected natural areas. |
+| 21 March                    | International Nowruz Day | A holiday of the vernal equinox and the beginning of a new agricultural year among Persian-speaking and Turkic-speaking peoples of Kazakhstan, Central and Minor Asia, Iran, as well as among Bashkirs and Tatars. |
+| 22 March 1895               | First Film Demonstration | The first film demonstration in history. A short film "Workers Leaving the Lumière Factory" was shown to the audience. |
+| 23 March 1876               | Creation of the "Yablochkov Candle" | On this day, inventor Pavel Yablochkov created the first electric lamp, named in his honor. |
+| 24 March 1834 - 4 October 1896   | William Morris           | English artist and designer. His contribution to the development and implementation of the principles of "Arts and Crafts" is invaluable. |
+| 25 March 1947               | Elton Hercules John     | British singer, pianist, and composer. Made a significant impact on the development of soft rock. |
+| 23 March 1891               | First Use of a Net on Football Goals | On this day, a football match between the North and South teams of England took place. |
+| 25 March 421                | Founding of Venice Day  | The historical center of Venice is located on 118 islands of the Venetian Lagoon, divided by 150 canals and streams, crossed by about 400 bridges. |
+| 25 March                    | Earth Hour              | On this day, at a designated time, people in various countries around the world turn off lights and other electrical appliances for one hour. The purpose of the action is to draw maximum attention to the problem of climate change on Earth. |
+| 27 March 1845 - 10 February 1923  | Wilhelm Conrad Röntgen   | German physicist. For the discovery of the rays named after him, Röntgen was awarded the first Nobel Prize in Physics in 1901. |
+| 30 March 1853 - 29 July 1890    | Vincent van Gogh        | Dutch post-impressionist artist. His works had a timeless influence on 20th-century painting. |
+| 27 March                    | World Theatre Day       | Traditionally held under the slogan: "Theatre as a means of understanding and strengthening peace between peoples". |
+| 30 March 1894 - 9 February 1977  | Sergey Ilyushin         | Soviet aircraft designer, academician, colonel-general. Developed the most mass-produced combat aircraft in history — the Il-2 attack aircraft, as well as the Il-4, Il-12. |
+| 30 March 1901 - 27 June 1972    | Galina Bannikova       | Soviet graphic artist, typeface designer. Creator of typefaces, including the most famous "Bannikovskaya", as well as "Baikonur" and "Kama". |
+| 31 March 1685 - 28 July 1750    | Johann Sebastian Bach   | German composer, organist, music teacher. Author of over 1000 musical works in all significant genres of his time. |
+| 31 March 1882 - 28 October 1969  | Korney Chukovsky       | Russian poet and literary critic. The most published author of children's literature in the Soviet Union and Russia. |

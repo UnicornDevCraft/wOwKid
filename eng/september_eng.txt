@@ -1,0 +1,48 @@
+| Date                        | Person/Event                       | Description |
+|-----------------------------|------------------------------------|-------------|
+| 1 September                 | Knowledge Day                      | Traditionally marked by ceremonies in schools, class hours, lessons on knowledge, peace, safety, and courage |
+| 1 September                 | Day of Break for Art               | Celebrated annually on the first Friday of September to emphasize the importance of art and creativity as a socially acceptable and productive way to take a pause |
+| 2 September 1874 - 13 November 1948 | Alexander Vasilyevich Vishnevsky | Russian and Soviet military surgeon, founder of a dynasty of doctors, academician. Creator of the famous healing ointment |
+| 3 September 1875 - 30 January 1951  | Ferdinand Porsche                 | German car and tank designer. Founder of Porsche, creator of the Beetle car |
+| 3 September                 | Oil Workers' Day                  | Celebrated on the first Sunday of September, it's a professional holiday for gas and oil specialists: geologists, drillers, developers, and builders |
+| 3 September                 | Baikal Day                        | Established in 1999 to highlight the significance of this unique natural phenomenon and attract public attention to the conservation of Lake Baikal |
+| 5 September 1929 - 3 July 2004 | Andriyan Grigoryevich Nikolayev    | Soviet cosmonaut, aviation Major General. First person to stay in space for several consecutive days |
+| 5 September                 | International Day of Charity       | Aimed at raising public awareness of the activities of charitable organizations and individuals in overcoming poverty and humanitarian crises |
+| 6 September 1991            | Return of the Historical Name to Saint Petersburg | Leningrad was renamed back to Saint Petersburg |
+| 7 September 1870 - 25 August 1938  | Alexander Ivanovich Kuprin          | Russian writer, best known for his novels: "The Duel", "The Pit", "Moloch", "Olesya" |
+| 8 September                 | International Literacy Day        | Aimed at reminding about the importance of literacy in people's lives and society and the need to strengthen efforts to promote it |
+| 9 September 1828 - 20 November 1910 | Lev Nikolayevich Tolstoy            | Russian writer and thinker, one of the greatest novelists in the world |
+| 9 September 1737 - 4 December 1798  | Luigi Galvani                     | Italian physician, physicist, and physiologist. One of the founders of the theory of electricity, first to study electrical phenomena in muscle contraction |
+| 10 September 1933 - 19 May 2000    | Yevgeny Vasilyevich Khrunov         | Soviet cosmonaut No. 15, Colonel of the Air Force, Hero of the Soviet Union. Second Soviet cosmonaut to perform a spacewalk |
+| 11 September 1816 - 3 December 1888 | Carl Friedrich Zeiss               | World-famous German engineer and optical manufacturer. Founder of the Zeiss optical systems factory |
+| 11 September 1935 - 20 September 2000 | Gherman Stepanovich Titov          | Soviet cosmonaut, second person in the world to make an orbital space flight, first to make a long-duration space flight (more than a day) |
+| 12 September 1818 - 26 February 1903 | Richard Jordan Gatling             | American inventor and physician, best known for inventing the Gatling gun, a multi-barrel rapid-fire weapon |
+| 12 September 1949            | Irina Konstantinovna Rodnina       | Soviet figure skater, three-time Olympic champion, ten-time world champion |
+| 13 September 1856 - 24 February 1953 | Sergei Nikolayevich Vinogradsky    | Renowned Russian microbiologist, founder of microbial ecology and soil microbiology |
+| 13 September 1921 - 11 April 2014    | Sergey Pavlovich Nepobedimy         | Soviet and Russian missile weapons designer, author of over 350 scientific works, discoveries, inventions, and publications |
+| 14 September 1902 - 24 November 1973 | Nikolai Ilyich Kamov                | Soviet aircraft designer, created the coaxial helicopter (with two main rotors rotating in opposite directions around a common axis) in the Soviet Union |
+| 14 September 1847 - 31 March 1894    | Pavel Nikolayevich Yablochkov       | Russian electrical engineer and inventor, created the "electric candle" for street lighting |
+| 15 September 1789 - 14 September 1851 | James Fenimore Cooper               | American novelist, classic of adventure literature, known for "The Last of the Mohicans", "The Deerslayer", "The Pathfinder" |
+| 15 September 1890 - 12 January 1976   | Agatha Christie                    | English writer, author of detective prose |
+| 16 September 1745 - 28 April 1813     | Mikhail Illarionovich Kutuzov       | Russian field marshal, commander of the Russian army during the Patriotic War of 1812 |
+| 17 September 1832 - 24 December 1889  | Sergey Petrovich Botkin             | Russian physician-therapist, pathologist, physiologist. Created the doctrine of the organism as a single whole, a classic of Russian medicine |
+| 17 September 1857 - 19 September 1935 | Konstantin Eduardovich Tsiolkovsky  | Russian and Soviet self-taught scientist, founder of modern astronautics |
+| 18 September 1819 - 11 February 1868  | Jean Bernard Léon Foucault          | French physicist, inventor of the gyroscope and Foucault pendulum |
+| 20 September 1778 - 25 January 1852   | Fabian Gottlieb von Bellingshausen  | Russian navigator, leader of the first Antarctic expedition on sloops, during which the sixth continent - Antarctica - was discovered |
+| 20 September 1934            | Sophia Loren                       | Italian actress and singer, recipient of honorary awards from many film festivals |
+| 21 September                 | International Day of Peace        | Proclaimed by the General Assembly as a day of non-violence and cease-fire around the world |
+| 22 September                 | World Elephant Day                | Elephants are the largest land mammals on the planet |
+| 22 September 1900 - 15 December 1964  | Sergey Ivanovich Ozhegov            | Soviet linguist, lexicographer, Doctor of Philological Sciences, professor. Author of the well-known "Dictionary of the Russian Language" |
+| 22 September 1870 - 10 October 1966   | Charlotte Reinagle Cooper           | British tennis player, first female Olympic champion |
+| 22 September 1791 - 25 August 1867    | Michael Faraday                     | English physicist and chemist, discovered electromagnetic induction, created the generator |
+| 23 September                 | Autumn Equinox Day                | The date of the event is unique for each year, representing the astronomical phenomenon of the Sun crossing the celestial equator |
+| 24 September 1501 - 21 September 1576 | Gerolamo Cardano                    | Italian mathematician, philosopher, and physician, inventor of the universal joint |
+| 25 September 1906 - 9 August 1975     | Dmitri Dmitriyevich Shostakovich    | Soviet composer, pianist, teacher, his work is one of the peaks of 20th-century musical art |
+| 26 September                 | Birthday of the Gramophone        | On this day, Emil Berliner received a patent for the revolutionary invention, replacing the cylinder in the existing phonograph with a disc |
+| 27 September                 | World Tourism Day                 | Aimed at attracting the attention of the international community to the importance of tourism and its social, cultural, and economic significance |
+| 28 September 551 BC - 11 April 479 BC  | Confucius (Zhengzhang)              | Chinese thinker and philosopher, his teachings deeply influenced the life of China and East Asia, forming the basis of a philosophical system |
+| 28 September 1783 - 2 April 1866     | Nadezhda Andreyevna Durova         | Russian cavalrywoman, first female officer in the Russian army (known as the "Cavalry Maiden") |
+| 29 September 1571 - 18 July 1610     | Michelangelo Merisi da Caravaggio  | Italian painter, one of the greatest masters of Baroque art |
+| 29 September 1703 - 30 May 1770      | François Boucher                    | Bright representative of Rococo artistic culture |
+| 29 September 1904 - 22 December 1936  | Nikolai Alexeyevich Ostrovsky       | Soviet writer, author of novels "How the Steel Was Tempered" and "Born of the Storm" |
+| 30 September 1882 - 24 September 1945 | Johannes (Hans) Wilhelm Geiger      | German physicist, inventor of the Geiger counter, the first detector of alpha particles and other ionizing radiations |

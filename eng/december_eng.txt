@@ -1,0 +1,56 @@
+| Date                         | Person/Event                       | Description |
+|------------------------------|------------------------------------|-------------|
+| 1 December 1896 - 18 June 1974  | Georgy Konstantinovich Zhukov     | Soviet military commander, Marshal of the Soviet Union |
+| 2 December 1859 - 29 March 1891  | Georges-Pierre Seurat            | French post-impressionist painter, founder of Neo-Impressionism |
+| 3 December 1795 - 27 August 1879  | Rowland Hill                     | English teacher, inventor, and reformer, creator of the modern postal system |
+| 3 December 1898 - 26 September 1940 | Mikhail Ilyich Koshkin           | Soviet engineer and designer, creator and first chief designer of the T-34 tank |
+| 5 December 1820 - 3 December 1892  | Afanasy Afanasyevich Fet         | Russian lyric poet and translator |
+| 5 December 1803 - 27 July 1873    | Fyodor Ivanovich Tyutchev        | Russian lyric poet, philosopher, diplomat, and statesman |
+| 5 December 1891 - 3 December 1956  | Alexander Mikhailovich Rodchenko | Soviet designer, graphic artist, and pioneer of photomontage |
+| 5 December 1901 - 15 December 1966 | Walt Disney                      | American filmmaker, creator of Walt Disney Productions |
+| 6 December 1778 - 9 May 1850     | Joseph Louis Gay-Lussac          | French chemist and physicist, discovered boron and iodine |
+| 7 December 1598 - 28 November 1680 | Gian Lorenzo Bernini             | Italian architect and sculptor, creator of Baroque sculpture |
+| 8 December                    | International Artist Day          | Celebrated to honor artists and their contributions to society |
+| 8 December 1864 - 7 January 1916  | Anatoly Leonidovich Durov        | Russian circus artist, clown, and animal trainer, founder of the famous Durov circus dynasty |
+| 9 December 1748 - 6 November 1822  | Claude Louis Berthollet          | French chemist, first to use chlorine for bleaching paper and textiles |
+| 10 December                   | Nobel Day                         | Ceremony for awarding the Nobel Prizes for outstanding scientific achievements, revolutionary inventions, and contributions to culture and development |
+| 10 December                   | World Football Day                | Celebrates the global sport of football (soccer) |
+| 11 December                   | International Mountain Day        | Aimed at promoting sustainable development in mountainous regions |
+| 11 December 1843 - 27 May 1910   | Robert Koch                      | German physician, microbiologist, and hygienist, one of the founders of modern microbiology and epidemiology |
+| 12 December 1766 - 3 June 1826   | Nikolai Mikhailovich Karamzin    | Russian historian, writer, and poet, known for his "History of the Russian State" |
+| 12 December 1761 - 18 April 1850  | Marie Tussaud                    | Founder of the Madame Tussauds wax museum in London |
+| 12 December 1925 - 25 December 2017 | Vladimir Yakovlevich Shainsky    | Soviet and Russian composer, known for children's songs and music for animated films like Cheburashka and Crocodile Gena |
+| 13 December 1553 - 14 May 1610   | Henry IV of France               | King of France, founder of the Bourbon dynasty |
+| 13 December 1816 - 6 December 1892 | Werner von Siemens               | German engineer, scientist, and inventor, founder of Siemens AG |
+| 14 December 1503 - 2 July 1566    | Nostradamus (Michel de Nostredame) | French physician, writer, astrologer, and alchemist, famous for his prophecies |
+| 15 December 1852 - 25 August 1908 | Antoine Henri Becquerel          | French physicist, Nobel laureate, one of the discoverers of radioactivity |
+| 15 December                   | International Tea Day             | Aimed at raising awareness of tea's significance and promoting sustainable production and fair trade |
+| 16 December 1770 - 26 March 1827  | Ludwig van Beethoven             | German composer and pianist, last representative of the "Viennese Classical School" |
+| 16 December 1866 - 13 December 1944 | Wassily Kandinsky                | Russian painter and art theorist, founder of abstract art |
+| 17 December 1778 - 29 May 1829   | Humphry Davy                     | British chemist and inventor, discovered several chemical elements and invented the Davy lamp |
+| 18 December 1856 - 30 August 1940 | Joseph John Thomson              | English physicist, Nobel laureate, discovered the electron |
+| 19 December 1852 - 9 May 1931    | Albert Abraham Michelson         | American physicist, Nobel laureate, conducted the famous Michelson-Morley experiment |
+| 19 December 1915 - 10 October 1963 | Édith Piaf                       | French singer and film actress, helped many aspiring performers |
+| 20 December 1917 - 27 October 1992 | David Joseph Bohm                | Physicist, known for work in quantum physics, philosophy, and neuropsychology |
+| 21 December 1773 - 10 June 1858   | Robert Brown                     | British botanist, discovered Brownian motion and the cell nucleus |
+| 21 December 1879 - 5 March 1953   | Joseph Vissarionovich Stalin     | Soviet revolutionary and statesman, leader of the Soviet Union |
+| 22 December 1744 - 4 March 1805   | Daniil Samoylovich               | Russian military physician, founder of Russian epidemiology |
+| 22 December                   | Energy Industry Workers' Day      | Professional holiday for workers in the energy industry |
+| 23 December 1777 - 1 December 1825 | Alexander I of Russia            | Russian Emperor, known as "the Blessed" in Russian historiography |
+| 23 December 1933               | Emperor Akihito                  | Emperor of Japan, the 125th emperor in the dynasty, reigning under the era name Heisei |
+| 24 December 1818 - 11 October 1889 | James Prescott Joule             | English physicist, formulated the law of conservation of energy |
+| 24 December 1905 - 5 April 1976   | Howard Hughes                    | American entrepreneur, engineer, aviation pioneer, filmmaker, and the world's first official billionaire |
+| 24 December 1868 - 11 January 1941 | Emanuel Lasker                   | German chess player and mathematician, world chess champion for 27 years |
+| 25 December 1878 - 6 June 1941    | Louis Chevrolet                  | American race car driver and co-founder of the Chevrolet Motor Car Company |
+| 26 December 1791 - 18 October 1871 | Charles Babbage                  | English mathematician and inventor, considered the "father of the computer" |
+| 26 December 1893 - 9 September 1976 | Mao Zedong                       | Chinese statesman and political leader, founder of the People's Republic of China |
+| 27 December 1822 - 28 September 1895 | Louis Pasteur                    | French chemist and microbiologist, founder of microbiology and creator of vaccines for anthrax, chicken cholera, and rabies |
+| 27 December 1571 - 15 November 1630 | Johannes Kepler                  | German mathematician, astronomer, and optician, discovered the laws of planetary motion |
+| 27 December 1773 - 15 December 1857 | Sir George Cayley                | English scientist and inventor, created the first successful glider |
+| 27 December 1832 - 16 December 1898 | Pavel Mikhailovich Tretyakov     | Russian entrepreneur and founder of the Tretyakov Gallery |
+| 28 December 1903 - 8 February 1957 | John von Neumann                 | Hungarian-American mathematician and physicist, contributed to quantum physics, computer science, and many other fields |
+| 28 December                   | International Cinema Day          | Celebrates the first public film screening in 1895 |
+| 29 December                   | International Cello Day           | Unofficial holiday for cellists and music lovers |
+| 30 December 1865 - 18 January 1936 | Rudyard Kipling                  | English writer, poet, journalist, and traveler, known for "The Jungle Book" and "Kim" |
+| 31 December 1968               | First Flight of the Tu-144        | The first flight of the world's first supersonic passenger aircraft |
+| 31 December                   | New Year's Eve                    | The last day of the year according to the Gregorian calendar |

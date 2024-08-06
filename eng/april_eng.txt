@@ -1,0 +1,46 @@
+| Date                      | Person/Event                | Description |
+|---------------------------|-----------------------------|-------------|
+| 1 April 1809 - 4 March 1852  | Nikolai Vasilyevich Gogol   | Russian writer, classic of world literature. Founder of the "natural school" literary movement. Had a great influence on Russian and world literature |
+| 1 April 1578 - 3 June 1657   | William Harvey              | Famous physician. Made significant contributions to physiology and embryology, creating the modern understanding of the circulatory system in the human body |
+| 1 April 1873 - 28 March 1943 | Sergei Vasilyevich Rachmaninoff | Russian composer, pianist, and conductor. Synthesized principles of the Petersburg and Moscow compositional schools, creating his unique style |
+| 1 April                     | International Bird Day       | Aimed at preserving species diversity and bird populations |
+| 2 April 1805 - 4 August 1875 | Hans Christian Andersen     | Danish poet and writer of fairy tales. Wrote 3342 works, translated into about 125 languages. His works provide unshakable lessons of virtue and resilience |
+| 3 April 1862 - 31 May 1945   | Leonid Osipovich Pasternak  | Russian painter and graphic artist. Master of genre compositions and book illustrations; teacher |
+| 2 April                     | International Children's Book Day | Established in 1967 by the International Board on Books for Young People |
+| 4 April 1823 - 19 November 1883 | Carl Wilhelm Siemens       | German and British engineer, metallurgist, and inventor. Creator of the regenerative furnace, leading to the development of the open-hearth furnace |
+| 5 April 1827 - 10 February 1912 | Joseph Lister               | Prominent English surgeon and scientist. Creator of surgical antiseptics. The bacterium genus Listeria is named after him |
+| 6 April                     | International Day of Sport for Development and Peace | Established by the UN General Assembly on 23 August 2013 to be observed annually on 6 April |
+| 6 April 1810 - 23 August 1888 | Philip Henry Gosse           | English naturalist and inventor. Opened the first public aquarium in 1853 at Regent's Park, London |
+| 6 April 1836 - 13 December 1904 | Nikolai Vasilyevich Sklifosovsky | Russian physician and surgeon. Developed methods for surgical disinfection and hot processing of instruments and medical clothing |
+| 7 April                     | World Health Day            | Observed annually since 1948 |
+| 8 April 1692 - 26 February 1770 | Giuseppe Tartini            | Italian violinist and virtuoso. Improved bow design and developed key bowing techniques |
+| 9 April 1336 - 18 February 1405 | Tamerlane                   | Founder of the Timurid Empire. One of the great conquerors, played a significant role in the history of Central Asia and the Caucasus. Outstanding commander and emir, founder of a large empire with its capital in Samarkand |
+| 7 April 1954                | Jackie Chan                 | Chinese and American actor-stuntman, director, and producer. One of the most popular action heroes in the world, known for his acrobatic fighting style, comic talent, and use of various "improvised weapons" in fights |
+| 10 April                    | Siblings Day                | A day to celebrate the bond between siblings |
+| 11 April 1894 - 19 December 1965 | Emil Teodorovich Kio        | Soviet circus artist and illusionist. Creator of illusion shows and designer of circus apparatus |
+| 10 April 1937 - 29 November 2010 | Bella Akhatovna Akhmadulina  | Soviet and Russian poetess, writer. Combined modernist techniques with classical tradition in her poetry. Also known for her essays and translations |
+| 12 April                    | World Aviation and Cosmonautics Day | Celebrates the first human flight into space. A special day marking the triumph of science and those working in the space industry |
+| 12 April 1839 - 1 November 1888 | Nikolai Mikhailovich Przhevalsky | Geographer and explorer of Central Asia. Discovered several new animal species including the wild camel, Przhevalsky's horse, and the Tibetan bear |
+| 12 April 1933 - 6 October 2018 | Montserrat Caballé           | Outstanding Spanish opera singer. Her vast repertoire included 88 roles and about 800 chamber works. Performed a wide variety of parts throughout her career |
+| 13 April 1963               | Garry Kimovich Kasparov     | Russian chess player. The 13th World Chess Champion, chess author, and politician. Often recognized as the greatest chess player in history |
+| 13 April 1748 - 9 December 1814 | Joseph Bramah               | English inventor. Patented the first safe in 1784. Invented the hydraulic press and the machine for numbering banknotes |
+| 14 April 1527 - 28 June 1598 | Abraham Ortelius            | Flemish cartographer. Author of the first modern geographic atlas |
+| 15 April 1452 - 2 May 1519   | Leonardo da Vinci           | Great scientist and artist. One of the major figures of the High Renaissance, an exemplary "universal man" |
+| 15 April 1886 - 26 August 1921 | Nikolai Stepanovich Gumilev | Russian poet of the Silver Age. Founder of the Acmeism school, prose writer, playwright, translator, and literary critic. Traveler and Africanist. Made two expeditions to Eastern and Northeastern Africa |
+| 15 April 1684 - 17 May 1727  | Catherine I Alekseyevna     | Russian Empress, wife of Peter the Great. Peter I established the Order of Saint Catherine in her honor, and the city of Yekaterinburg in the Urals is named after her |
+| 17 April 1745 - 13 September 1804 | Semyon Fyodorovich Shchedrin | Russian landscape painter and academician. One of the founders of Russian landscape painting |
+| 19 April 1834 - 31 December 1911 | Grigory Grigoryevich Myasoedov | Russian painter. One of the brightest representatives of Russian realism in the second half of the 19th century. Focused on peasant life themes |
+| 21 April 1758 - 12 August 1828 | Arina Rodionovna            | Nanny of Alexander Sergeyevich Pushkin, wet nurse of his elder sister Olga. Pushkin retained a touching, loving attitude towards her throughout his life, dedicating poems and frequently mentioning her in letters |
+| 20 April 1889 - 30 April 1945 | Adolf Hitler                | German statesman and politician. Supreme Commander of the German Armed Forces during World War II |
+| 21 April 1926 - 8 September 2022 | Elizabeth II               | Queen of the United Kingdom and Northern Ireland and other Commonwealth realms from the Windsor dynasty. Supreme Commander of the British Armed Forces, Supreme Governor of the Church of England, and Head of the Commonwealth of Nations |
+| 22 April 1724 - 12 February 1804 | Immanuel Kant              | German philosopher. One of the central thinkers of the Enlightenment. His comprehensive and systematic works in metaphysics, ethics, and aesthetics made him one of the most influential figures in Western philosophy of modern times |
+| 22 April 1870 - 21 January 1924 | Vladimir Ilyich Lenin      | Russian revolutionary, leader of the October Revolution of 1917 in Russia. Founder of the world's first socialist state |
+| 22 April 1904 - 18 February 1967 | Robert Julius Oppenheimer  | American theoretical physicist. Known as the scientific director of the Manhattan Project, often called the "father of the atomic bomb" |
+| 23 April 1891 - 5 March 1953  | Sergei Sergeyevich Prokofiev | Russian Soviet composer, pianist, and conductor. Considered one of the greatest composers of the 20th century, creator of masterpieces in various musical genres |
+| 25 April 1883 - 26 October 1973 | Semyon Mikhailovich Budyonny | Soviet military commander, one of the first Marshals of the Soviet Union. Commanded strategic directions and fronts in the early years of the Great Patriotic War |
+| 23 April 1564 - 3 May 1616    | William Shakespeare         | Often regarded as the greatest writer in the English language and one of the world's greatest dramatists |
+| 26 April 1900 - 30 September 1985 | Charles Francis Richter     | American seismologist. Developed the Richter scale for measuring the magnitude of earthquakes |
+| 27 April 1791 - 2 April 1872  | Samuel Finley Breese Morse  | American inventor and painter. Best known for his inventions of the Morse apparatus and the Morse code |
+| 29 April 1854 - 17 July 1912  | Henri Poincaré              | Mathematician, astronomer, philosopher. Known for laying the foundations of the theory of relativity |
+| 29 April 1818 - 13 March 1881 | Alexander II Nikolayevich   | Russian Emperor. Known in Russian and Bulgarian historiography as "The Liberator" |
+| 30 April 1777 - 23 February 1855 | Johann Carl Friedrich Gauss | German mathematician, mechanic, physicist, astronomer, and geodesist. Considered one of the greatest mathematicians of all time, known as the "Prince of Mathematicians" |

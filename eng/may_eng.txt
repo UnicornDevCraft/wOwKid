@@ -1,0 +1,39 @@
+| Date                       | Person/Event                | Description |
+|----------------------------|-----------------------------|-------------|
+| 1 May 1917 - 3 December 2012 | Fyodor Savelyevich Khitruk  | Director-animator, legend of Soviet animation. Creator of many beloved cartoon characters, including Winnie the Pooh |
+| 1 May                       | International Workers' Day  | Celebrated in many countries around the world as International Workers' Day |
+| 2 May 1729 - 17 November 1796 | Catherine II                | Empress and autocrat of all Russia (1762-1796). Came to power through a palace coup. Politician of enlightened absolutism |
+| 3 May                       | World Sun Day               | The sun is a powerful source of cosmic energy for the Earth, providing the light and heat necessary for plant and animal life, and shaping the Earth's atmosphere |
+| 5 May 1846 - 15 November 1916 | Henryk Sienkiewicz          | Polish writer, Nobel laureate. Known for his novels: "With Fire and Sword", "The Deluge", "Sir Michael", "The Crusaders" |
+| 5 May 1869 - 20 April 1933   | Boris Lvovich Rosing        | Soviet engineer-physicist, pioneer in television experiments. In 1907, he received a patent for the method of "electric transmission of images", securing his priority |
+| 5 May 1818 - 14 March 1883   | Karl Heinrich Marx          | German philosopher, economist, and founder of scientific communism. Influenced the entire political history of the 20th century |
+| 4 May                       | International Firefighters' Day | Celebrates the role of firefighters in society for their dedication, commitment, and sacrifice, regardless of the country they live and work in |
+| 7 May 1840 - 25 October 1893 | Pyotr Ilyich Tchaikovsky    | Russian composer, one of the best melodists, pedagogue, conductor. Known for ballets: "Swan Lake", "The Nutcracker", "The Sleeping Beauty" |
+| 6 May 1856 - 23 September 1939 | Sigmund Schlomo Freud      | Austrian psychologist, psychoanalyst, psychiatrist, and neurologist. Best known as the founder of psychoanalysis, which significantly influenced psychology, medicine, and sociology |
+| 9 May 1924 - 12 June 1997    | Bulat Shalvovich Okudzhava  | Soviet and Russian poet, prose writer, screenwriter, bard, composer. Laureate of the USSR State Prize, member of the USSR Writers' Union and the CPSU party |
+| 9 May                       | Victory Day                 | Celebrates the victory of the Red Army and the Soviet people over Nazi Germany in the Great Patriotic War (1941-1945) |
+| 10 May 1864 - 10 August 1946 | Léon Ernest Gaumont         | French producer, entrepreneur. One of the founders of world cinema |
+| 10 May 1850 - 2 October 1931 | Thomas Johnston Lipton      | Irish yachtsman, entrepreneur, tea magnate. Founder of the famous tea company |
+| 11 May 1904 - 23 January 1989 | Salvador Dalí               | Spanish painter, graphic artist, sculptor, director, and writer. One of the most famous representatives of surrealism |
+| 11 May 1720 - 22 February 1797 | Karl Friedrich Hieronymus von Münchhausen | German baron, famous storyteller. Became a literary character. His name became synonymous with a person who tells incredible stories |
+| 12 May 1933 - 1 June 2010    | Andrey Andreyevich Voznesensky | Soviet and Russian poet, publicist, artist, and architect. Laureate of the USSR State Prize (1978) and the Russian Government Prize (2010, posthumously) |
+| 11 May 1855 - 28 August 1914 | Anatoly Konstantinovich Lyadov | Russian composer, conductor, folklorist, and pedagogue. Among his compositions: symphonic pictures "Baba Yaga", "The Enchanted Lake", "Kikimora", "Amazon Dance", "Mourning Song" |
+| 13 May 1221 - 14 November 1263 | Alexander Yaroslavich Nevsky | Prince of Novgorod, Grand Prince of Kiev, Grand Prince of Vladimir. Commander, saint of the Russian Orthodox Church |
+| 14 May                      | Mother's Day                | One of the most touching holidays, as we carry the image of our mother from childhood to our last days |
+| 15 May 1848 - 23 July 1926   | Viktor Mikhailovich Vasnetsov | Russian painter and architect, master of historical and folklore painting. Founder of the "neo-Russian style" |
+| 15 May 1891 - 10 March 1940  | Mikhail Afanasyevich Bulgakov | Russian writer of the Soviet period, playwright, theater director, and actor. Famous works include: "Heart of a Dog", "The Master and Margarita" |
+| 14 May 1836 - 12 August 1900 | Wilhelm Steinitz            | Austrian chess player, first World Chess Champion. Developed the doctrine of positional play, replacing the dominant "romantic" combinational school |
+| 15 May 1859 - 19 April 1906  | Pierre Curie                | French physicist, one of the first researchers of radioactivity, member of the French Academy of Sciences, Nobel laureate in Physics (1903) |
+| 18 May 1048 - 4 December 1131 | Omar Ibn Ibrahim Khayyam    | Persian philosopher, mathematician, astronomer, and poet. Known worldwide for his philosophical rubaiyat and creating the most accurate calendar used |
+| 16 May 1831 - 22 January 1900 | David Edward Hughes         | Famous English and American physicist and inventor. Invented the microphone and inductive balance |
+| 16 May                      | International Day of Light   | Established by UNESCO in November 2017. This day is a call to strengthen scientific cooperation and use its potential to promote peace and sustainable development |
+| 18 May 1868 - 17 July 1918   | Nicholas II Alexandrovich   | Emperor of All Russia, King of Poland, and Grand Duke of Finland. From the Romanov Imperial House. Colonel of the guard (1892); also held ranks of admiral of the fleet and field marshal of the British army from British monarchs |
+| 21 May 1921 - 14 December 1989 | Andrei Dmitrievich Sakharov | Soviet theoretical physicist, academician of the USSR Academy of Sciences. One of the creators of the first Soviet hydrogen bomb. Nobel Peace Prize laureate (1975) |
+| 20 May 1956                 | Grigory Chkhartishvili (Boris Akunin) | Russian writer, Japanologist, literary critic, translator, and public figure. Also published under literary pseudonyms Anna Borisova and Anatoly Brusnikin |
+| 22 May 1813 - 13 February 1883 | Wilhelm Richard Wagner      | German composer, conductor. Major reformer of opera. Significantly influenced European musical culture, especially the development of opera and symphonic genres |
+| 22 May 1859 - 7 July 1930    | Arthur Conan Doyle          | English writer of Irish descent. Author of numerous adventure, historical, and fantasy works |
+| 24 May 1905 - 21 February 1984 | Mikhail Alexandrovich Sholokhov | Russian Soviet writer, journalist, and screenwriter. Films: "They Fought for Their Country", "Virgin Soil Upturned" |
+| 22 May 1913 - 4 April 2004   | Nikita Vladimirovich Bogoslovsky | Soviet and Russian composer, conductor, pianist, literary publicist |
+| 23 May 1707 - 10 January 1778 | Carl Linnaeus               | Swedish naturalist (botanist, zoologist, mineralogist) and physician. In 1732, he made a scientific journey to Lapland, covering more than 2000 km in five months |
+| 24 May 1819 - 22 January 1901 | Alexandrina Victoria (Queen Victoria) | Queen of the United Kingdom of Great Britain and Ireland from 20 June 1837 until her death |
+| 30 May 1846 - 24 September 1920 | Carl Peter Fabergé          | Russian jeweler, head of the family firm of master jewelers. Creator of the Fabergé eggs, highly valued by collectors worldwide |

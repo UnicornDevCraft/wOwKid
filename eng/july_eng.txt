@@ -1,0 +1,37 @@
+| Date                        | Person/Event                       | Description |
+|-----------------------------|------------------------------------|-------------|
+| 1 July 1751                 | First Volume of the First "Encyclopedia" Published in France | Parisian publisher Louis Breton approached philosopher and writer Denis Diderot to become the organizer of this unique endeavor. Diderot dedicated 25 years to the "Encyclopedia" |
+| 1 July 1919 - 9 October 2006 | Vladimir Osipovich Bogomolov      | Soviet and Russian writer. Participant in the Great Patriotic War |
+| 2 July 1775 - 29 March 1836  | Nadyezhda Osipovna Pushkina       | Russian noblewoman, mother of the great poet A.S. Pushkin. Educated and fluent in French, she was cheerful and sociable, well-integrated in high society |
+| 3 July 1924 - 30 December 2003 | Mikhail Mikhaylovich Shulz      | Soviet and Russian chemist and physicochemist |
+| 4 July 1790 - 1 December 1866  | George Everest                   | British geographer. His name was given to Peak XV, which is now considered the highest mountain in the world |
+| 5 July 1903 - 8 March 1993    | Vladimir Grigoryevich Suteev     | Soviet children's writer, illustrator, and animation director. One of the pioneers of Soviet animation |
+| 6 July 1885 - 11 September 1962 | Vladimir Andreyevich Artemyev   | Soviet designer of rocket technology. One of the main authors of the "Katyusha" rocket launcher |
+| 6 July 1796 - 2 March 1855    | Nicholas I Pavlovich            | Russian Emperor from 1825. Third son of Emperor Paul I and Maria Feodorovna, and the brother of Emperor Alexander I |
+| 7 July 1940                  | Ringo Starr (Richard Starkey)    | Popular British musician, drummer of The Beatles. Knight Bachelor and recipient of the Order of the British Empire |
+| 7 July 1887 - 28 March 1985    | Marc Chagall                     | World-renowned artist. Some of his famous works include "The Holy Family", "Dedication to Christ" ("Golgotha"), and "Bridges over the Seine" |
+| 8 July 1838 - 8 March 1917     | Ferdinand von Zeppelin           | Inventor and military figure. Designer of numerous airships |
+| 9 July 1877                  | Alexander Graham Bell            | Created the first telephone company, "Bell Telephone Company", which initially serviced 778 telephone lines |
+| 10 July 1856 - 7 January 1943  | Nikola Tesla                     | Engineer and physicist, inventor in the field of electrical and radio engineering. Known for the Tesla coil, AC generator, and wave radio transmitter |
+| 11 July 1732 - 4 April 1807    | Joseph Jérôme Lefrançois de Lalande | French astronomer and mathematician. Wrote major works such as "Astronomy" (a three-volume treatise) and "Astronomical Bibliography" |
+| 12 July 100 BC - 15 March 44 BC | Gaius Julius Caesar              | Ancient Roman statesman, military leader, and writer. Known for transforming the Roman Republic into the Roman Empire |
+| 12 July 1854 - 14 March 1932   | George Eastman                   | Inventor of Kodak. In 1888, the first Kodak camera was released |
+| 13 July 1944                  | Ernő Rubik                       | Inventor of the Rubik's Cube. Sculptor and professor of architecture |
+| 14 July 1743 - 20 July 1816    | Gavrila Romanovich Derzhavin     | Poet of the Enlightenment era, representative of Classicism. Known for works like "Felitsa" and "The Thunder of Victory, Resound!" |
+| 15 July 1872 - 2 December 1940  | Nikolai Konstantinovich Koltsov  | One of the founders of genetics. Author of the idea of matrix synthesis |
+| 16 July 1872 - 18 June 1928    | Roald Engelbregt Gravning Amundsen | Polar explorer and the first person to reach the South Pole. The first person (with Oscar Wisting) to visit both geographical poles of the planet |
+| 17 July 1846 - 14 April 1888    | Nikolai Nikolayevich Miklukho-Maklay | Anthropologist, biologist, traveler, and ethnographer. Author of about 160 scientific works, mostly articles and notes |
+| 18 July 1932 - 1 April 2017     | Yevgeny Aleksandrovich Yevtushenko | Soviet and Russian poet, prose writer, screenwriter, photographer, film actor, and director. Nominated for the Nobel Prize in Literature |
+| 19 July 1893 - 14 April 1930    | Vladimir Vladimirovich Mayakovsky | One of the greatest poets of the 20th century. Russian Soviet poet and futurist |
+| 20 July 356 BC - 10 June 323 BC | Alexander the Great              | King of Ancient Macedonia, one of the greatest military commanders in history, and creator of a world empire |
+| 21 July 1899 - 2 July 1961      | Ernest Miller Hemingway          | American writer and journalist. Nobel Prize in Literature laureate (1954) |
+| 22 July 1878 - 7 August 1942    | Janusz Korczak                   | Pedagogue, writer, and doctor. Known for books like "How to Love a Child", "The Child's Right to Respect", and "King Matt the First" |
+| 23 July                       | State Flag Day of the Republic of Abkhazia | Modern flag of Abkhazia symbolizes the key stages of the state's development |
+| 24 July 1802 - 5 December 1870  | Alexandre Dumas (father)         | Famous French writer. Known for works like "The Three Musketeers", "Twenty Years After", "Queen Margot", and "The Count of Monte Cristo" |
+| 25 July 1874 - 1 May 1934       | Sergey Vasilievich Lebedev        | Outstanding Russian chemist of the early 20th century. Founder of the industrial method for producing synthetic rubber |
+| 26 July 1881 - 1 May 1948       | David Petrovich Shterenberg       | One of the main representatives of modern Russian visual art of the early 20th century. Russian and Soviet artist, painter, and graphic artist |
+| 27 July 1989                  | First World Airship Championship | The first championship was held in Luxembourg, with 17 airships participating |
+| 28 July 1922 - 1 November 2008  | Jacques Piccard                   | Swiss oceanologist. Famous as the first person to reach the bottom of the Mariana Trench, the deepest part of the world's oceans |
+| 29 July                       | International Tiger Day            | Established in 2010 to raise awareness about the extinction of tigers and ways to protect them |
+| 30 July 1863 - 7 April 1947     | Henry Ford                        | American industrialist, founder of the Ford Motor Company. His slogan was "a car for everyone" |
+| 31 July 1817 - 2 May 1900       | Ivan Konstantinovich Aivazovsky   | World-renowned Russian marine painter. Known for works like "The Ninth Wave", "Among the Waves", "Calm", "View of the Seashore near St. Petersburg", and "Chaos" |
